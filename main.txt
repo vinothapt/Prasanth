@@ -1,5 +1,3 @@
 this is main test file.
 
 edit lne
-
-btrancj 1
